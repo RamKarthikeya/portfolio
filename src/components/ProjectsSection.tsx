@@ -13,7 +13,7 @@ const ProjectsSection = () => {
       role: "Team Lead (10 members)",
       technologies: ["React", "Spring Boot", "Kafka", "Jenkins", "Docker"],
       highlights: ["Real-time pricing system", "Microservices architecture", "Enterprise-grade solution"],
-      status: "In Progress"
+      status: "Completed"
     },
     {
       title: "Secure Enterprise Transaction with Corda",
@@ -22,7 +22,7 @@ const ProjectsSection = () => {
       role: "Developer",
       technologies: ["Corda", "Java", "Kotlin", "Blockchain"],
       highlights: ["Smart contracts", "B2B transactions", "Blockchain security"],
-      status: "In Progress"
+      status: "Completed"
     },
     {
       title: "Emotion Detection using BiLSTM",
